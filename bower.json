@@ -20,7 +20,6 @@
     "star-rating": "acordeonl/star-rating#*",
     "drop-menu": "acordeonl/drop-menu#*",
     "animation-behaviors": "acordeonl/animation-behaviors#^1.0.1",
-    "message-card": "acordeonl/message-card#^1.0.0",
     "dialogs": "acordeonl/dialogs#*",
     "layouts": "acordeonl/layouts#*"
   }
